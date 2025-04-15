@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Customer Note</string>
+    <string name="new_note">New note</string>
+    <string name="enter_name">Enter name…</string>
+    <string name="enter_phone_number">Enter phone number…</string>
+    <string name="enter_date">Enter related date…</string>
+    <string name="enter_description">Enter description…</string>
+    <string name="name_and_phone_number_empty">Please enter a name and phone number!</string>
+    <string name="phone_number">"Phone Number: "</string>
+    <string name="date">"Date: "</string>
+    <string name="name">"Name: "</string>
+    <string name="edit_note">Edit note</string>
+    <string name="search_placeholder">Enter name or phone number…</string>
+</resources>
